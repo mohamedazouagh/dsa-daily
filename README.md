@@ -9,3 +9,4 @@ python -m pytest
 | # | Problem | Topic | Difficulty |
 |---|---|---|---|
 | 0001 | [Two Sum](problems/p0001_two_sum.py) | hash map | easy |
+| 0002 | [Valid Parentheses](problems/p0002_valid_parentheses.py) | stack | easy |
