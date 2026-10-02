@@ -15,3 +15,4 @@ python -m pytest
 | 0005 | [Merge Intervals](problems/p0005_merge_intervals.py) | sorting | medium |
 | 0006 | [Reverse Linked List](problems/p0006_reverse_linked_list.py) | linked list | easy |
 | 0007 | [Number of Islands](problems/p0007_number_of_islands.py) | graph BFS | medium |
+| 0008 | [Climbing Stairs](problems/p0008_climbing_stairs.py) | dynamic programming | easy |
