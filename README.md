@@ -17,3 +17,4 @@ python -m pytest
 | 0007 | [Number of Islands](problems/p0007_number_of_islands.py) | graph BFS | medium |
 | 0008 | [Climbing Stairs](problems/p0008_climbing_stairs.py) | dynamic programming | easy |
 | 0009 | [Top K Frequent Elements](problems/p0009_top_k_frequent.py) | heap | medium |
+| 0010 | [Best Time to Buy and Sell Stock](problems/p0010_best_time_buy_sell_stock.py) | greedy | easy |
