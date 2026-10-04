@@ -20,3 +20,4 @@ python -m pytest
 | 0010 | [Best Time to Buy and Sell Stock](problems/p0010_best_time_buy_sell_stock.py) | greedy | easy |
 | 0011 | [Course Schedule](problems/p0011_course_schedule.py) | topological sort | medium |
 | 0012 | [Maximum Depth of Binary Tree](problems/p0012_max_depth_binary_tree.py) | binary tree BFS | easy |
+| 0013 | [Product of Array Except Self](problems/p0013_product_except_self.py) | prefix products | medium |
