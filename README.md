@@ -23,3 +23,4 @@ python -m pytest
 | 0013 | [Product of Array Except Self](problems/p0013_product_except_self.py) | prefix products | medium |
 | 0014 | [Valid Palindrome](problems/p0014_valid_palindrome.py) | two pointers | easy |
 | 0015 | [Subsets](problems/p0015_subsets.py) | backtracking | medium |
+| 0016 | [Kth Largest Element in an Array](problems/p0016_kth_largest.py) | heap | medium |
