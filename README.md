@@ -25,3 +25,4 @@ python -m pytest
 | 0015 | [Subsets](problems/p0015_subsets.py) | backtracking | medium |
 | 0016 | [Kth Largest Element in an Array](problems/p0016_kth_largest.py) | heap | medium |
 | 0017 | [Missing Number](problems/p0017_missing_number.py) | bit manipulation (XOR) | easy |
+| 0018 | [Linked List Cycle II](problems/p0018_linked_list_cycle_start.py) | fast/slow pointers (Floyd) | medium |
