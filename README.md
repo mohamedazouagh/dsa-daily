@@ -27,3 +27,4 @@ python -m pytest
 | 0017 | [Missing Number](problems/p0017_missing_number.py) | bit manipulation (XOR) | easy |
 | 0018 | [Linked List Cycle II](problems/p0018_linked_list_cycle_start.py) | fast/slow pointers (Floyd) | medium |
 | 0019 | [Majority Element](problems/p0019_majority_element.py) | Boyer-Moore voting | easy |
+| 0020 | [Daily Temperatures](problems/p0020_daily_temperatures.py) | monotonic stack | medium |
