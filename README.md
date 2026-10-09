@@ -30,3 +30,4 @@ python -m pytest
 | 0020 | [Daily Temperatures](problems/p0020_daily_temperatures.py) | monotonic stack | medium |
 | 0021 | [Contains Duplicate II](problems/p0021_contains_nearby_duplicate.py) | sliding window set | easy |
 | 0022 | [Network Delay Time](problems/p0022_network_delay_time.py) | shortest paths (Dijkstra) | medium |
+| 0023 | [Find Pivot Index](problems/p0023_find_pivot_index.py) | prefix sums | easy |
