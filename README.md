@@ -29,3 +29,4 @@ python -m pytest
 | 0019 | [Majority Element](problems/p0019_majority_element.py) | Boyer-Moore voting | easy |
 | 0020 | [Daily Temperatures](problems/p0020_daily_temperatures.py) | monotonic stack | medium |
 | 0021 | [Contains Duplicate II](problems/p0021_contains_nearby_duplicate.py) | sliding window set | easy |
+| 0022 | [Network Delay Time](problems/p0022_network_delay_time.py) | shortest paths (Dijkstra) | medium |
