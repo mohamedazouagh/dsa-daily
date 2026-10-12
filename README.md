@@ -34,3 +34,4 @@ python -m pytest
 | 0024 | [Coin Change](problems/p0024_coin_change.py) | dynamic programming (unbounded knapsack) | medium |
 | 0025 | [Implement Trie](problems/p0025_implement_trie.py) | trie (prefix tree) | medium |
 | 0026 | [Roman to Integer](problems/p0026_roman_to_integer.py) | string parsing | easy |
+| 0027 | [Search in Rotated Sorted Array](problems/p0027_search_rotated_sorted_array.py) | modified binary search | medium |
