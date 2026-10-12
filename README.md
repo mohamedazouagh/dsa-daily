@@ -33,3 +33,4 @@ python -m pytest
 | 0023 | [Find Pivot Index](problems/p0023_find_pivot_index.py) | prefix sums | easy |
 | 0024 | [Coin Change](problems/p0024_coin_change.py) | dynamic programming (unbounded knapsack) | medium |
 | 0025 | [Implement Trie](problems/p0025_implement_trie.py) | trie (prefix tree) | medium |
+| 0026 | [Roman to Integer](problems/p0026_roman_to_integer.py) | string parsing | easy |
