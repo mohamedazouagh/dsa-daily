@@ -36,3 +36,4 @@ python -m pytest
 | 0026 | [Roman to Integer](problems/p0026_roman_to_integer.py) | string parsing | easy |
 | 0027 | [Search in Rotated Sorted Array](problems/p0027_search_rotated_sorted_array.py) | modified binary search | medium |
 | 0028 | [Counting Bits](problems/p0028_counting_bits.py) | bit manipulation + DP | easy |
+| 0029 | [Redundant Connection](problems/p0029_redundant_connection.py) | union-find (disjoint set) | medium |
