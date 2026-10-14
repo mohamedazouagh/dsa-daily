@@ -38,3 +38,4 @@ python -m pytest
 | 0028 | [Counting Bits](problems/p0028_counting_bits.py) | bit manipulation + DP | easy |
 | 0029 | [Redundant Connection](problems/p0029_redundant_connection.py) | union-find (disjoint set) | medium |
 | 0030 | [Isomorphic Strings](problems/p0030_isomorphic_strings.py) | two-way hash map (bijection) | easy |
+| 0031 | [Rotate Image](problems/p0031_rotate_image.py) | matrix (in-place transpose + reverse) | medium |
