@@ -37,3 +37,4 @@ python -m pytest
 | 0027 | [Search in Rotated Sorted Array](problems/p0027_search_rotated_sorted_array.py) | modified binary search | medium |
 | 0028 | [Counting Bits](problems/p0028_counting_bits.py) | bit manipulation + DP | easy |
 | 0029 | [Redundant Connection](problems/p0029_redundant_connection.py) | union-find (disjoint set) | medium |
+| 0030 | [Isomorphic Strings](problems/p0030_isomorphic_strings.py) | two-way hash map (bijection) | easy |
