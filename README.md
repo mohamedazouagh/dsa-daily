@@ -40,3 +40,4 @@ python -m pytest
 | 0030 | [Isomorphic Strings](problems/p0030_isomorphic_strings.py) | two-way hash map (bijection) | easy |
 | 0031 | [Rotate Image](problems/p0031_rotate_image.py) | matrix (in-place transpose + reverse) | medium |
 | 0032 | [Diameter of Binary Tree](problems/p0032_diameter_binary_tree.py) | post-order DFS (iterative) | easy |
+| 0033 | [Longest Increasing Subsequence](problems/p0033_longest_increasing_subsequence.py) | DP + binary search (patience sorting) | medium |
