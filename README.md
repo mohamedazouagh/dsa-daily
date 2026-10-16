@@ -42,3 +42,4 @@ python -m pytest
 | 0032 | [Diameter of Binary Tree](problems/p0032_diameter_binary_tree.py) | post-order DFS (iterative) | easy |
 | 0033 | [Longest Increasing Subsequence](problems/p0033_longest_increasing_subsequence.py) | DP + binary search (patience sorting) | medium |
 | 0034 | [Pascal's Triangle](problems/p0034_pascals_triangle.py) | row-by-row DP / combinatorics | easy |
+| 0035 | [Koko Eating Bananas](problems/p0035_koko_eating_bananas.py) | binary search on the answer | medium |
