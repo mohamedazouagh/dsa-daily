@@ -43,3 +43,4 @@ python -m pytest
 | 0033 | [Longest Increasing Subsequence](problems/p0033_longest_increasing_subsequence.py) | DP + binary search (patience sorting) | medium |
 | 0034 | [Pascal's Triangle](problems/p0034_pascals_triangle.py) | row-by-row DP / combinatorics | easy |
 | 0035 | [Koko Eating Bananas](problems/p0035_koko_eating_bananas.py) | binary search on the answer | medium |
+| 0036 | [Group Anagrams](problems/p0036_group_anagrams.py) | hash map with a canonical key | medium |
