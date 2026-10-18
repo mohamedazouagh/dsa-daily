@@ -46,3 +46,4 @@ python -m pytest
 | 0036 | [Group Anagrams](problems/p0036_group_anagrams.py) | hash map with a canonical key | medium |
 | 0037 | [Squares of a Sorted Array](problems/p0037_squares_sorted_array.py) | two pointers (fill from the back) | easy |
 | 0038 | [Meeting Rooms II](problems/p0038_meeting_rooms_ii.py) | min-heap of end times (interval scheduling) | medium |
+| 0039 | [Min Stack](problems/p0039_min_stack.py) | stack design (running minimum per element) | easy |
