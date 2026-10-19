@@ -48,3 +48,4 @@ python -m pytest
 | 0038 | [Meeting Rooms II](problems/p0038_meeting_rooms_ii.py) | min-heap of end times (interval scheduling) | medium |
 | 0039 | [Min Stack](problems/p0039_min_stack.py) | stack design (running minimum per element) | easy |
 | 0040 | [Longest Common Subsequence](problems/p0040_longest_common_subsequence.py) | 2D dynamic programming (+ walk-back reconstruction) | medium |
+| 0041 | [Find All Numbers Disappeared in an Array](problems/p0041_find_disappeared_numbers.py) | in-place index marking (sign flip) | easy |
