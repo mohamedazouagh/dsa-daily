@@ -50,3 +50,4 @@ python -m pytest
 | 0040 | [Longest Common Subsequence](problems/p0040_longest_common_subsequence.py) | 2D dynamic programming (+ walk-back reconstruction) | medium |
 | 0041 | [Find All Numbers Disappeared in an Array](problems/p0041_find_disappeared_numbers.py) | in-place index marking (sign flip) | easy |
 | 0042 | [Word Break](problems/p0042_word_break.py) | 1D dynamic programming over prefixes | medium |
+| 0043 | [Merge Two Sorted Lists](problems/p0043_merge_two_sorted_lists.py) | linked list splicing (dummy head) | easy |
