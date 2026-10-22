@@ -51,3 +51,4 @@ python -m pytest
 | 0041 | [Find All Numbers Disappeared in an Array](problems/p0041_find_disappeared_numbers.py) | in-place index marking (sign flip) | easy |
 | 0042 | [Word Break](problems/p0042_word_break.py) | 1D dynamic programming over prefixes | medium |
 | 0043 | [Merge Two Sorted Lists](problems/p0043_merge_two_sorted_lists.py) | linked list splicing (dummy head) | easy |
+| 0044 | [Rotting Oranges](problems/p0044_rotting_oranges.py) | multi-source BFS on a grid (level = minute) | medium |
