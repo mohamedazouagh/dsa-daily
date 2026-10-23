@@ -53,3 +53,4 @@ python -m pytest
 | 0043 | [Merge Two Sorted Lists](problems/p0043_merge_two_sorted_lists.py) | linked list splicing (dummy head) | easy |
 | 0044 | [Rotting Oranges](problems/p0044_rotting_oranges.py) | multi-source BFS on a grid (level = minute) | medium |
 | 0045 | [Is Subsequence](problems/p0045_is_subsequence.py) | greedy two pointers (+ bisect index for many queries) | easy |
+| 0046 | [Subarray Sum Equals K](problems/p0046_subarray_sum_equals_k.py) | prefix sums + hash map of counts | medium |
