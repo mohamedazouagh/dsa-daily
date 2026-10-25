@@ -55,3 +55,4 @@ python -m pytest
 | 0045 | [Is Subsequence](problems/p0045_is_subsequence.py) | greedy two pointers (+ bisect index for many queries) | easy |
 | 0046 | [Subarray Sum Equals K](problems/p0046_subarray_sum_equals_k.py) | prefix sums + hash map of counts | medium |
 | 0047 | [Excel Sheet Column Title](problems/p0047_excel_column_title.py) | math (bijective base-26 conversion) | easy |
+| 0048 | [Longest Repeating Character Replacement](problems/p0048_longest_repeating_replacement.py) | sliding window + letter counts (window never shrinks) | medium |
