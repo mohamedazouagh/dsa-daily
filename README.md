@@ -58,3 +58,4 @@ python -m pytest
 | 0048 | [Longest Repeating Character Replacement](problems/p0048_longest_repeating_replacement.py) | sliding window + letter counts (window never shrinks) | medium |
 | 0049 | [Happy Number](problems/p0049_happy_number.py) | cycle detection on an implicit sequence (Floyd) | easy |
 | 0050 | [Partition Equal Subset Sum](problems/p0050_partition_equal_subset_sum.py) | 0/1 knapsack (subset-sum bitset DP + reconstruction) | medium |
+| 0051 | [Flood Fill](problems/p0051_flood_fill.py) | grid DFS with an explicit stack | easy |
