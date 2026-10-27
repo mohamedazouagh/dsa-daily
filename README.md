@@ -59,3 +59,4 @@ python -m pytest
 | 0049 | [Happy Number](problems/p0049_happy_number.py) | cycle detection on an implicit sequence (Floyd) | easy |
 | 0050 | [Partition Equal Subset Sum](problems/p0050_partition_equal_subset_sum.py) | 0/1 knapsack (subset-sum bitset DP + reconstruction) | medium |
 | 0051 | [Flood Fill](problems/p0051_flood_fill.py) | grid DFS with an explicit stack | easy |
+| 0052 | [Gas Station](problems/p0052_gas_station.py) | greedy (one pass, reset start when the tank goes negative) | medium |
