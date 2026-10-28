@@ -61,3 +61,4 @@ python -m pytest
 | 0051 | [Flood Fill](problems/p0051_flood_fill.py) | grid DFS with an explicit stack | easy |
 | 0052 | [Gas Station](problems/p0052_gas_station.py) | greedy (one pass, reset start when the tank goes negative) | medium |
 | 0053 | [Single Number](problems/p0053_single_number.py) | bit manipulation (XOR folding + split by lowest set bit) | easy |
+| 0054 | [Generate Parentheses](problems/p0054_generate_parentheses.py) | backtracking with open/close counts (Catalan-many results) | medium |
