@@ -62,3 +62,4 @@ python -m pytest
 | 0052 | [Gas Station](problems/p0052_gas_station.py) | greedy (one pass, reset start when the tank goes negative) | medium |
 | 0053 | [Single Number](problems/p0053_single_number.py) | bit manipulation (XOR folding + split by lowest set bit) | easy |
 | 0054 | [Generate Parentheses](problems/p0054_generate_parentheses.py) | backtracking with open/close counts (Catalan-many results) | medium |
+| 0055 | [Move Zeroes](problems/p0055_move_zeroes.py) | two pointers (stable in-place compaction with swaps) | easy |
