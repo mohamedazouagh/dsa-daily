@@ -63,3 +63,4 @@ python -m pytest
 | 0053 | [Single Number](problems/p0053_single_number.py) | bit manipulation (XOR folding + split by lowest set bit) | easy |
 | 0054 | [Generate Parentheses](problems/p0054_generate_parentheses.py) | backtracking with open/close counts (Catalan-many results) | medium |
 | 0055 | [Move Zeroes](problems/p0055_move_zeroes.py) | two pointers (stable in-place compaction with swaps) | easy |
+| 0056 | [Insert Interval](problems/p0056_insert_interval.py) | interval sweep (before / overlapping / after, no sort) | medium |
