@@ -65,3 +65,4 @@ python -m pytest
 | 0055 | [Move Zeroes](problems/p0055_move_zeroes.py) | two pointers (stable in-place compaction with swaps) | easy |
 | 0056 | [Insert Interval](problems/p0056_insert_interval.py) | interval sweep (before / overlapping / after, no sort) | medium |
 | 0057 | [Implement Queue using Stacks](problems/p0057_queue_using_stacks.py) | queue design (two stacks, amortised O(1) pour) | easy |
+| 0058 | [Longest Palindromic Substring](problems/p0058_longest_palindromic_substring.py) | expand around 2n - 1 centres (+ count all palindromes) | medium |
