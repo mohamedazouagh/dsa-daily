@@ -67,3 +67,4 @@ python -m pytest
 | 0057 | [Implement Queue using Stacks](problems/p0057_queue_using_stacks.py) | queue design (two stacks, amortised O(1) pour) | easy |
 | 0058 | [Longest Palindromic Substring](problems/p0058_longest_palindromic_substring.py) | expand around 2n - 1 centres (+ count all palindromes) | medium |
 | 0059 | [Invert Binary Tree](problems/p0059_invert_binary_tree.py) | binary tree (iterative swap with a stack + pairwise mirror check) | easy |
+| 0060 | [Container With Most Water](problems/p0060_container_with_most_water.py) | two pointers (always drop the shorter wall) | medium |
