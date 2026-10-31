@@ -68,3 +68,4 @@ python -m pytest
 | 0058 | [Longest Palindromic Substring](problems/p0058_longest_palindromic_substring.py) | expand around 2n - 1 centres (+ count all palindromes) | medium |
 | 0059 | [Invert Binary Tree](problems/p0059_invert_binary_tree.py) | binary tree (iterative swap with a stack + pairwise mirror check) | easy |
 | 0060 | [Container With Most Water](problems/p0060_container_with_most_water.py) | two pointers (always drop the shorter wall) | medium |
+| 0061 | [Add Binary](problems/p0061_add_binary.py) | string arithmetic (right-to-left digits with a carry) | easy |
