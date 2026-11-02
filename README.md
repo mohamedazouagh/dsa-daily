@@ -70,3 +70,4 @@ python -m pytest
 | 0060 | [Container With Most Water](problems/p0060_container_with_most_water.py) | two pointers (always drop the shorter wall) | medium |
 | 0061 | [Add Binary](problems/p0061_add_binary.py) | string arithmetic (right-to-left digits with a carry) | easy |
 | 0062 | [Search a 2D Matrix](problems/p0062_search_2d_matrix.py) | binary search over a virtual flat array (+ staircase search for row/column-sorted grids) | medium |
+| 0063 | [Ransom Note](problems/p0063_ransom_note.py) | letter counting with a Counter (+ which letters are missing) | easy |
