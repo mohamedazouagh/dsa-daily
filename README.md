@@ -72,3 +72,4 @@ python -m pytest
 | 0062 | [Search a 2D Matrix](problems/p0062_search_2d_matrix.py) | binary search over a virtual flat array (+ staircase search for row/column-sorted grids) | medium |
 | 0063 | [Ransom Note](problems/p0063_ransom_note.py) | letter counting with a Counter (+ which letters are missing) | easy |
 | 0064 | [Sort Colors](problems/p0064_sort_colors.py) | Dutch national flag (three-way partition in one pass) | medium |
+| 0065 | [Intersection of Two Linked Lists](problems/p0065_intersection_two_linked_lists.py) | two pointers that switch heads (+ length-difference skip) | easy |
