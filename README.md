@@ -73,3 +73,4 @@ python -m pytest
 | 0063 | [Ransom Note](problems/p0063_ransom_note.py) | letter counting with a Counter (+ which letters are missing) | easy |
 | 0064 | [Sort Colors](problems/p0064_sort_colors.py) | Dutch national flag (three-way partition in one pass) | medium |
 | 0065 | [Intersection of Two Linked Lists](problems/p0065_intersection_two_linked_lists.py) | two pointers that switch heads (+ length-difference skip) | easy |
+| 0066 | [Maximum Subarray](problems/p0066_maximum_subarray.py) | Kadane's algorithm (extend or restart, + slice bounds) | medium |
