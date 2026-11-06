@@ -75,3 +75,4 @@ python -m pytest
 | 0065 | [Intersection of Two Linked Lists](problems/p0065_intersection_two_linked_lists.py) | two pointers that switch heads (+ length-difference skip) | easy |
 | 0066 | [Maximum Subarray](problems/p0066_maximum_subarray.py) | Kadane's algorithm (extend or restart, + slice bounds) | medium |
 | 0067 | [Merge Sorted Array](problems/p0067_merge_sorted_array.py) | two pointers filling from the back (in place, stable) | easy |
+| 0068 | [Decode Ways](problems/p0068_decode_ways.py) | 1D dynamic programming (one- or two-digit last piece, two variables) | medium |
