@@ -76,3 +76,4 @@ python -m pytest
 | 0066 | [Maximum Subarray](problems/p0066_maximum_subarray.py) | Kadane's algorithm (extend or restart, + slice bounds) | medium |
 | 0067 | [Merge Sorted Array](problems/p0067_merge_sorted_array.py) | two pointers filling from the back (in place, stable) | easy |
 | 0068 | [Decode Ways](problems/p0068_decode_ways.py) | 1D dynamic programming (one- or two-digit last piece, two variables) | medium |
+| 0069 | [Lowest Common Ancestor of a BST](problems/p0069_lca_binary_search_tree.py) | binary search tree walk (go left/right until p and q split) | easy |
